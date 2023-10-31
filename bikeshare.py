@@ -180,7 +180,7 @@ def user_stats(df):
 
 
     print("\nThis took %s seconds." % (time.time() - start_time))
-    print('-'*40)
+    print('-'*50)
 
 def view_data(df):
     view_data = input("Would you like to view 5 rows of individual trip data? Enter yes or no: ")
@@ -197,7 +197,7 @@ def view_data(df):
     
     
     print("\nThis took %s seconds." % (time.time() - start_time))
-    print('-'*40)
+    print('-'*50)
 
 
 def main():
