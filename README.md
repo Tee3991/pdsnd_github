@@ -28,7 +28,9 @@ HEAD
     """Displays statistics on the most frequent times of travel."""
 # def trip_duration_stats(df):
     """Displays statistics on the total and average trip duration."""
-# ef user_stats(df):
+# def user_stats(df):
     """Displays statistics on bikeshare users."""
 
 
+
+# def view_data(df) : shows the rows of the data
