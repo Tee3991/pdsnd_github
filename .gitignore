@@ -1,4 +1,5 @@
 HEAD
+*.csv
 washington.csv
 202004-divvy-tripdata.csv
 
